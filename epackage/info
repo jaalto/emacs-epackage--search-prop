@@ -1,0 +1,21 @@
+Package: search-prop
+Section: extensions
+License: GPL-2+
+Depends: emacs (>= 22)
+Status: stable
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Michael Olson <mwolson@gnu.org>
+Upstream-Bugs:
+Vcs-Type: http
+Vcs-Url: http://mwolson.org/static/dist/elisp/search-prop.el
+Vcs-Browser:
+Homepage:
+Wiki:
+Commentary:
+Description: search forward and backward for properties
+ Provides command M-x search-property-forwrard and
+ M-x search-property-backward.
+ .
+ Note: 2011-12-28 the code hasn't been touched since 2007.
